@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F331E1-F9BD-4A49-936F-9A9B76D6939B}|06_\uC810\uD504\uBB38.vcxproj|C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\03_Goto.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3F331E1-F9BD-4A49-936F-9A9B76D6939B}|06_\uC810\uD504\uBB38.vcxproj|solutionrelative:03_Goto.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F331E1-F9BD-4A49-936F-9A9B76D6939B}|06_\uC810\uD504\uBB38.vcxproj|C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\02_Continue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3F331E1-F9BD-4A49-936F-9A9B76D6939B}|06_\uC810\uD504\uBB38.vcxproj|solutionrelative:02_Continue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F331E1-F9BD-4A49-936F-9A9B76D6939B}|06_\uC810\uD504\uBB38.vcxproj|C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\01_Break.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3F331E1-F9BD-4A49-936F-9A9B76D6939B}|06_\uC810\uD504\uBB38.vcxproj|solutionrelative:01_Break.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03_Goto.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\03_Goto.c",
+              "RelativeDocumentMoniker": "03_Goto.c",
+              "ToolTip": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\03_Goto.c",
+              "RelativeToolTip": "03_Goto.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T10:43:40.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02_Continue.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\02_Continue.c",
+              "RelativeDocumentMoniker": "02_Continue.c",
+              "ToolTip": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\02_Continue.c",
+              "RelativeToolTip": "02_Continue.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T10:37:14.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01_Break.c",
+              "DocumentMoniker": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\01_Break.c",
+              "RelativeDocumentMoniker": "01_Break.c",
+              "ToolTip": "C:\\Users\\rkden\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD3C9\uC77C \uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\06_\uC810\uD504\uBB38\\01_Break.c",
+              "RelativeToolTip": "01_Break.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-21T10:30:31.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
